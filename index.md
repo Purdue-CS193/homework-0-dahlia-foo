@@ -1,3 +1,10 @@
+# Mike Lee's First CS193 Homework
+
+'''markdown
+- The TAs are enthusiastic
+- Only meets once a week
+'''
+
 ## Welcome to GitHub Pages
 
 ### LOCKED IN
